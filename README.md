@@ -74,6 +74,6 @@ All content is presented at a high level to demonstrate technical capabilities w
 - Developed structured approaches to incident response
 - Analyzed governance and policy considerations
 
-👉 See details: `docs/policy_risk.md`
+👉 See details: [`docs/policy_risk.md`](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/policy_risk.md)
 
 ---
