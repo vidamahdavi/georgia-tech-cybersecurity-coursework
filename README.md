@@ -16,64 +16,50 @@ All content is presented at a high level to demonstrate technical capabilities w
 
 ## 🔍 Areas of Expertise
 
-### 🛡️ Network Traffic Analysis & Intrusion Detection
-- Analyzed network traffic using packet capture techniques
-- Investigated suspicious activity and anomalies
-- Applied intrusion detection methodologies
-- Developed rule-based detection logic
-
-👉 See details: [docs/network-traffic-analysis.md ](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/network-traffic-analysis.md)
-
+### 🛡️ Incident Response & Threat Analysis
+- Analyzed cybersecurity incidents using structured methodologies  
+- Investigated attack vectors and threat behavior  
+- Applied incident response lifecycle (detection → containment → recovery)  
+👉 See details: [Incident Response](docs/incident-response.md)
 
 ---
 
-### 🌐 Network Security & Attack Analysis
-- Evaluated malicious vs legitimate network behavior
-- Investigated attack patterns and vulnerabilities
-- Applied defensive security strategies
-- Strengthened detection and monitoring approaches
-
-👉 See details: `docs/network_security.md`
+### 🌐 Network Traffic Analysis & Intrusion Detection
+- Analyzed packet-level network traffic to detect anomalies  
+- Investigated suspicious activity using traffic analysis techniques  
+- Applied intrusion detection concepts and monitoring strategies  
+👉 See details: [Network Traffic Analysis](docs/network-traffic-analysis.md)
 
 ---
 
-### 🔀 Routing & Infrastructure Security
-- Explored routing behavior and network vulnerabilities
-- Analyzed risks in large-scale network infrastructure
-- Studied attack scenarios affecting routing protocols
-- Applied security-focused network design principles
-
-👉 See details: `docs/routing_security.md`
+### ⚙️ Security Automation (Python)
+- Developed Python-based solutions for security tasks  
+- Automated security processes and data handling  
+- Improved efficiency through scripting and automation  
+👉 See details: [Python Security Automation](docs/python-security-automation.md)
 
 ---
 
 ### 🔐 Cryptography & Secure Communication
-- Applied concepts of symmetric and asymmetric encryption
-- Analyzed cryptographic systems and weaknesses
-- Explored secure communication protocols
-- Evaluated data confidentiality and integrity mechanisms
-
-👉 See details: [`docs/cryptography.md`](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/cryptography.md)
+- Applied encryption and hashing concepts  
+- Evaluated cryptographic strengths and weaknesses  
+- Explored secure communication and authentication methods  
+👉 See details: [Cryptography](docs/cryptography.md)
 
 ---
 
 ### 🌍 Web & API Security
-- Investigated common web application vulnerabilities
-- Analyzed security risks in APIs and modern web systems
-- Applied secure coding and design principles
-- Studied OWASP Top 10 attack vectors
-
-👉 See details:[ https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/web_security.md ](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/web_security.md)
-
+- Investigated web application vulnerabilities (OWASP Top 10)  
+- Analyzed API security risks and attack vectors  
+- Applied secure development and defensive techniques  
+👉 See details: [Web Security](docs/web_security.md)
 
 ---
 
 ### 📊 Security Policy & Risk Management
-- Applied cybersecurity frameworks such as NIST CSF
-- Evaluated organizational security risks
-- Developed structured approaches to incident response
-- Analyzed governance and policy considerations
-
-👉 See details: [`docs/policy_risk.md`](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/policy_risk.md)
+- Applied NIST Cybersecurity Framework (CSF)  
+- Evaluated organizational risks and vulnerabilities  
+- Developed incident response and governance strategies  
+👉 See details: [Policy & Risk](docs/policy_risk.md)
 
 ---
