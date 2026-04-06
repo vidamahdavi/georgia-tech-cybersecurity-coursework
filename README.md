@@ -63,7 +63,7 @@ All content is presented at a high level to demonstrate technical capabilities w
 - Applied secure coding and design principles
 - Studied OWASP Top 10 attack vectors
 
-👉 See details: https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/web_security.md 
+👉 See details:[ https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/web_security.md ](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/web_security.md)
 
 
 ---
