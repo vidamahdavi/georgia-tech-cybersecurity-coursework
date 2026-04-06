@@ -22,7 +22,7 @@ All content is presented at a high level to demonstrate technical capabilities w
 - Applied intrusion detection methodologies
 - Developed rule-based detection logic
 
-👉 See details: [Network Security Project](docs/network_security.md)
+👉 See details:[View details](network_security.md)
 
 
 ---
