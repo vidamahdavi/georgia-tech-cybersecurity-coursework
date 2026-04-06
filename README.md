@@ -22,7 +22,7 @@ All content is presented at a high level to demonstrate technical capabilities w
 - Applied intrusion detection methodologies
 - Developed rule-based detection logic
 
-👉 See details: docs/network-traffic-analysis.md 
+👉 See details: [docs/network-traffic-analysis.md ](https://github.com/vidamahdavi/georgia-tech-cybersecurity-coursework/blob/148012eb721cfa358b62e62ac9523440ceddc9b9/docs/network-traffic-analysis.md)
 
 
 ---
